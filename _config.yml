@@ -1,14 +1,5 @@
 title: <div align="center"> Bhuvnesh Kumar </div>
 logo: /assets/img/logo.png
-description: <div align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/bhuvnesh-kumar-2b85793a/">LinkedIn</a> |
-  <a href="https://github.com/geek-bhuvnesh">GitHub</a>
-
-  <br>
-    I'm working as a Lead Software Engineer with PowerSchool.
-    I am new to AI/ML field.
-  <br>
-  </div>
+description: I'm working as a Lead Software Engineer with PowerSchool.
 
 theme: jekyll-theme-minimal
